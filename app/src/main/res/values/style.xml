@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalendarDayText">
+        <item name="android:textColor">@android:color/white</item> <!-- Белый цвет текста -->
+        <item name="android:textStyle">bold</item> <!-- Жирный стиль текста -->
+    </style>
+
+</resources>
